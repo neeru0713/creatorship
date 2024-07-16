@@ -1,0 +1,10 @@
+
+.side-nav-wrapper {
+    min-width: 160px;
+  }
+  
+  li {
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  
